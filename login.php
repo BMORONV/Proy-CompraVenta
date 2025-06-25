@@ -12,7 +12,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>AnderCode | Acceso </title>
+    <title>Infosuit | Acceso </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -58,13 +58,13 @@
                                                     </div>
                                                     <div class="carousel-inner text-center text-white-50 pb-5">
                                                         <div class="carousel-item active">
-                                                            <p class="fs-15 fst-italic">" Great! Clean code, clean design, easy for customization. Thanks very much! "</p>
+                                                            <p class="fs-10 fst-italic">" Conecta, Compra, Vende: ¡Bienvenido a tu tienda digital! "</p>
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <p class="fs-15 fst-italic">" The theme is really great with an amazing customer support."</p>
+                                                            <p class="fs-10 fst-italic">" Tu espacio de compras y ventas, donde cada oportunidad es posible."</p>
                                                         </div>
                                                         <div class="carousel-item">
-                                                            <p class="fs-15 fst-italic">" Great! Clean code, clean design, easy for customization. Thanks very much! "</p>
+                                                            <p class="fs-10 fst-italic">" Compra lo que necesitas, vende lo que sobra. ¡Haz crecer tu negocio con nosotros! "</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -78,27 +78,12 @@
                                     <div class="p-lg-5 p-4">
                                         <div>
                                             <h5 class="text-primary">Bienvenido !</h5>
-                                            <p class="text-muted">Acceder a AnderCode</p>
+                                            <p class="text-muted">Acceder a Infosuit</p>
                                         </div>
 
                                         <div class="mt-4">
                                             <form action="" method="post" id="login_form">
 
-                                                <div class="mb-3">
-                                                    <label for="emp_id" class="form-label">Empresa</label>
-                                                    <select type="text" class="form-control form-select" name="emp_id" id="emp_id" aria-label="Seleccionar">
-                                                        <option selected>Seleccionar</option>
-
-                                                    </select>
-                                                </div>
-
-                                                <div class="mb-3">
-                                                    <label for="suc_id" class="form-label">Sucursal</label>
-                                                    <select type="text" class="form-control form-select" name="suc_id" id="suc_id" aria-label="Seleccionar">
-                                                        <option selected>Seleccionar</option>
-
-                                                    </select>
-                                                </div>
 
                                                 <div class="mb-3">
                                                     <label for="usu_correo" class="form-label">Correo Electronico</label>
@@ -147,7 +132,7 @@
                     <div class="col-lg-12">
                         <div class="text-center">
                             <p class="mb-0">&copy;
-                                <script>document.write(new Date().getFullYear())</script> Velzon. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand
+                                <script>document.write(new Date().getFullYear())</script>  <i class="mdi mdi-heart text-danger"></i> 
                             </p>
                         </div>
                     </div>
