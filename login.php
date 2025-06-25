@@ -12,7 +12,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>AnderCode | Acceso </title>
+    <title>Infosuit | Acceso </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -78,7 +78,7 @@
                                     <div class="p-lg-5 p-4">
                                         <div>
                                             <h5 class="text-primary">Bienvenido !</h5>
-                                            <p class="text-muted">Acceder a AnderCode</p>
+                                            <p class="text-muted">Acceder a Infosuit</p>
                                         </div>
 
                                         <div class="mt-4">

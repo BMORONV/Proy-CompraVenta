@@ -19,7 +19,7 @@
 
         public static function ruta(){
             /* TODO: Ruta de acceso del Proyecto (Validar su puerto y nombre de carpeta por el suyo) */
-            return "http://localhost:90/PERSONAL_CompraVenta/";
+            return "http://localhost:90/PERSONAL_CompraVenta_v1/";
             /* return "https://compraventaandercode.azurewebsites.net/"; */
         }
     }
